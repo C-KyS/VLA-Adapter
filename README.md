@@ -712,3 +712,4 @@ We thank [OpenVLA-OFT](https://github.com/moojink/openvla-oft), [MiniVLA](https:
   <img src="https://api.star-history.com/svg?repos=OpenHelix-Team/VLA-Adapter&type=Date" width="400" height="250" />
 </a>
 
+
